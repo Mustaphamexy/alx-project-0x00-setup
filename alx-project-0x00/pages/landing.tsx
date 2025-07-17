@@ -8,7 +8,7 @@ const sizes = {
     large: "text-lg"
 }
 
-const shapes = [ "rounded-sm", "rounded-md", "rounded-lg"]
+const shapes = [ "rounded-sm", "rounded-md", "rounded-lg", "rounded-full" ]
 
 const Landing : React.FC = () => {
 
